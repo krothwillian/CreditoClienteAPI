@@ -1,6 +1,6 @@
-# CreditoClienteAPI
+# Credito Cliente API
 
-Cadastro de proposta de crédito para um determinado cliente, é feito uma análise dos dados e caso aprovado, é informado o limite de crédito.
+API de uma aplicação para cadastro de proposta de crédito para um determinado cliente, é feito uma análise dos dados e caso aprovado, é informado o limite de crédito.
 
 # Configurar API na sua máquina
 - Abrir Eclipse
