@@ -14,3 +14,7 @@ API de uma aplicação para cadastro de proposta de crédito para um determinado
 - Excluir um cliente pelo id
 - Consultar todos os clientes cadastrados
 - Caminho: http://localhost:8080/swagger-ui.html#
+
+# Tecnologias Usadas:
+- Java (Spring boot)
+- Banco (Postgre)
